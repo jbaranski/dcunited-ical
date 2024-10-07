@@ -22,10 +22,10 @@ jobs:
         run: pip install -r requirements.txt
       - name: Generate calendar file
         env:
-          SEASON: ${env.SEASON}
-          LEAGUE: ${env.LEAGUE}
-          TEAM_ID: ${env.TEAM_ID}
-          TEAM_NAME: ${env.TEAM_NAME}
+          SEASON: ${vars.SEASON}
+          LEAGUE: ${vars.LEAGUE}
+          TEAM_ID: ${vars.TEAM_ID}
+          TEAM_NAME: ${vars.TEAM_NAME}
           OUTPUT_PATH: ${github.workspace}
           API_SPORTS_API_KEY: ${{ secrets.API_SPORTS_API_KEY }}
         run: |-

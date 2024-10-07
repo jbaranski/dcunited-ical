@@ -12,8 +12,7 @@ class APISports:
     }
 
     def __init__(self):
-        if not self.HEADERS['x-rapidapi-key']:
-            raise Exception('API key is not set')
+        assert self.HEADERS['x-rapidapi-key']
 
     async def get_fixtures(self, client, team, season):
         url = f'{self.BASE_URL}/fixtures?team={team}&season={season}'

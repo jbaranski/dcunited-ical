@@ -84,14 +84,12 @@ class FootballCalendar:
     team_name: str
     season: int
     events: List[FootballCalendarEvent]
-    cal_file_name: str = field(init=False)
     cal: Calendar | None = field(init=False)
     cal_bytes: bytes | None = field(init=False)
     cal_sha256_str: str | None = field(init=False)
 
     def __post_init__(self):
         self.team_name = get_correct_team_name(self.team_name)
-        self.cal_file_name = f"{self.team_name.replace('.', '').replace(' ', '')}.ics"
         self.cal = None
         self.cal_bytes = None
         self.cal_sha256_str = None

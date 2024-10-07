@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:soccercalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/dcunited-ical/refs/heads/m
+ ain/calendar.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All DC United fixtures for 2024 season
+X-WR-CALNAME:DC United
+X-WR-RELCALID:DCUnited-2024
+BEGIN:VEVENT
+SUMMARY:DC United vs. New England Revolution
+DTSTART:20240225T003000Z
+DTEND:20240225T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. New England Revolution
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. DC United
+DTSTART:20240303T033000Z
+DTEND:20240303T053000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. DC United
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. DC United
+DTSTART:20240310T190000Z
+DTEND:20240310T210000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Cincinnati vs. DC United
+LOCATION:TQL Stadium\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Inter Miami
+DTSTART:20240316T180000Z
+DTEND:20240316T200000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Inter Miami
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. DC United
+DTSTART:20240324T003000Z
+DTEND:20240324T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. DC United
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. CF Montreal
+DTSTART:20240330T233000Z
+DTEND:20240331T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. CF Montreal
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. DC United
+DTSTART:20240406T233000Z
+DTEND:20240407T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Columbus Crew vs. DC United
+LOCATION:Lower.com Field\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Orlando City SC
+DTSTART:20240413T233000Z
+DTEND:20240414T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Orlando City SC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. DC United
+DTSTART:20240420T233000Z
+DTEND:20240421T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New York City FC vs. DC United
+LOCATION:Citi Field\, New York\, New York
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Seattle Sounders
+DTSTART:20240427T233000Z
+DTEND:20240428T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Seattle Sounders
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Philadelphia Union
+DTSTART:20240504T233000Z
+DTEND:20240505T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Philadelphia Union
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta United FC vs. DC United
+DTSTART:20240511T233000Z
+DTEND:20240512T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Atlanta United FC vs. DC United
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. New York Red Bulls
+DTSTART:20240515T233000Z
+DTEND:20240516T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. New York Red Bulls
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami vs. DC United
+DTSTART:20240518T233000Z
+DTEND:20240519T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Inter Miami vs. DC United
+LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Chicago Fire
+DTSTART:20240525T233000Z
+DTEND:20240526T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Chicago Fire
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. DC United
+DTSTART:20240529T233000Z
+DTEND:20240530T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - CF Montreal vs. DC United
+LOCATION:Stade Saputo\, Montreal\, Quebec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Toronto FC
+DTSTART:20240601T233000Z
+DTEND:20240602T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Toronto FC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte vs. DC United
+DTSTART:20240615T233000Z
+DTEND:20240616T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Charlotte vs. DC United
+LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Atlanta United FC
+DTSTART:20240619T233000Z
+DTEND:20240620T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Atlanta United FC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Houston Dynamo
+DTSTART:20240622T233000Z
+DTEND:20240623T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Houston Dynamo
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. DC United
+DTSTART:20240629T233000Z
+DTEND:20240630T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New York Red Bulls vs. DC United
+LOCATION:Red Bull Arena\, Harrison\, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. FC Cincinnati
+DTSTART:20240703T233000Z
+DTEND:20240704T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. FC Cincinnati
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City SC vs. DC United
+DTSTART:20240706T233000Z
+DTEND:20240707T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Orlando City SC vs. DC United
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Nashville SC
+DTSTART:20240713T233000Z
+DTEND:20240714T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Nashville SC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. DC United
+DTSTART:20240718T003000Z
+DTEND:20240718T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. DC United
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. FC Dallas
+DTSTART:20240824T233000Z
+DTEND:20240825T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. FC Dallas
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. DC United
+DTSTART:20240831T233000Z
+DTEND:20240901T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Toronto FC vs. DC United
+LOCATION:BMO Field\, Toronto\, Ontario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire vs. DC United
+DTSTART:20240908T003000Z
+DTEND:20240908T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Chicago Fire vs. DC United
+LOCATION:SeatGeek Stadium\, Bridgeview\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. New York City FC
+DTSTART:20240914T233000Z
+DTEND:20240915T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. New York City FC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. DC United
+DTSTART:20240922T221500Z
+DTEND:20240923T001500Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Philadelphia Union vs. DC United
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Columbus Crew
+DTSTART:20240928T233000Z
+DTEND:20240929T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Columbus Crew
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. DC United
+DTSTART:20241003T003000Z
+DTEND:20241003T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. DC United
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. DC United
+DTSTART:20241005T233000Z
+DTEND:20241006T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New England Revolution vs. DC United
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Charlotte
+DTSTART:20241019T220000Z
+DTEND:20241020T000000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Charlotte
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Wehda Club vs. DC United
+DTSTART:20240203T160000Z
+DTEND:20240203T180000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Al Wehda Club vs. DC United
+LOCATION:King Abdullah Sport City Stadium\, Buraidah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al-Hilal Saudi FC vs. DC United
+DTSTART:20240206T160000Z
+DTEND:20240206T180000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Al-Hilal Saudi FC vs. DC United
+LOCATION:King Abdullah Sport City Stadium\, Buraidah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al-Ettifaq vs. DC United
+DTSTART:20240209T144500Z
+DTEND:20240209T164500Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Al-Ettifaq vs. DC United
+LOCATION:Prince Mohamed bin Fahd Stadium\, Dammam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. FC Dallas
+DTSTART:20240217T190000Z
+DTEND:20240217T210000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - DC United vs. FC Dallas
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Hilal Omdurman vs. DC United
+DTSTART:20240206T160000Z
+DTEND:20240206T180000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Al Hilal Omdurman vs. DC United
+LOCATION:Prince Abdullah al-Faisal Stadium\, Jeddah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta United FC vs. DC United
+DTSTART:20240727T000000Z
+DTEND:20240727T020000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - Atlanta United FC vs. DC United
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Santos Laguna vs. DC United
+DTSTART:20240801T000000Z
+DTEND:20240801T020000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - Santos Laguna vs. DC United
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Celtic
+DTSTART:20240720T233000Z
+DTEND:20240721T013000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - DC United vs. Celtic
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Mazatlán
+DTSTART:20240809T233000Z
+DTEND:20240810T013000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - DC United vs. Mazatlán
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+END:VCALENDAR

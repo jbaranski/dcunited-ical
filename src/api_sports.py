@@ -8,11 +8,11 @@ class APISports:
     BASE_URL = f'https://{API_HOST}'
     HEADERS = {
         'x-rapidapi-host': API_HOST,
-        'x-rapidapi-key': os.getenv('API_KEY')
+        'x-rapidapi-key': os.getenv('API_SPORTS_API_KEY')
     }
 
     def __init__(self):
-        if not os.getenv('API_KEY'):
+        if not self.HEADERS['x-rapidapi-key']:
             raise Exception('API key is not set')
 
     async def get_fixtures(self, client, team, season):

@@ -12,6 +12,7 @@ SEASON = int(os.getenv('SEASON'))  # TODO: 2024
 LEAGUE = os.getenv('LEAGUE')  # TODO: 253
 TEAM_ID = os.getenv('TEAM_ID')  # TODO: 1615 DC UNITED
 TEAM_NAME = os.getenv('TEAM_NAME')
+OUTPUT_PATH = os.getenv('OUTPUT_PATH')
 LOG_LEVEL = os.getenv('LOG_LEVEL')
 
 logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == 'DEBUG' else logging.INFO)
@@ -44,7 +45,7 @@ def main() -> dict:
         SEASON,
         FootballCalendarEvent.to_football_calendar_events(fixtures)
     )
-    with open('output.ics', 'wb') as f:
+    with open(f'{OUTPUT_PATH}/calendar.ics', 'wb') as f:
         f.write(cal.to_bytes())
 
 

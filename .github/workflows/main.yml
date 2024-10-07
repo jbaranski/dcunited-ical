@@ -29,5 +29,5 @@ jobs:
           OUTPUT_PATH: ${{ github.workspace }}
           API_SPORTS_API_KEY: ${{ secrets.API_SPORTS_API_KEY }}
         run: |-
-          python -m src
+          python -m $GITHUB_WORKSPACE/src
           cat $GITHUB_WORKSPACE/calendar.ics

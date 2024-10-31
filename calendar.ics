@@ -80,7 +80,7 @@ DTSTART:20240420T233000Z
 DTEND:20240421T013000Z
 COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - New York City FC vs. DC United
-LOCATION:Citi Field\, Flushing
+LOCATION:Citi Field\, New York\, New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DC United vs. Seattle Sounders
@@ -276,8 +276,8 @@ LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DC United vs. Charlotte
-DTSTART:20241019T220000Z
-DTEND:20241020T000000Z
+DTSTART:20241020T220000Z
+DTEND:20241021T000000Z
 COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - DC United vs. Charlotte
 LOCATION:Audi Field\, Washington\, District of Columbia
